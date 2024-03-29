@@ -1,7 +1,0 @@
-[[buildpacks]]
-uri = "docker://gcr.io/paketo-buildpacks/node-engine:3.2.2"
-version = "3.2.2"
-
-[[buildpacks]]
-uri = "docker://gcr.io/paketo-buildpacks/nginx:0.15.11"
-version = "0.15.11"

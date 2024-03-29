@@ -1,1 +1,0 @@
-web: bundle exec mv dist nginx/dist && nginx -g daemon off

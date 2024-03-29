@@ -1,0 +1,4 @@
+nodejs:
+  version: 18.19.1
+nginx:
+  version: 1.25.1

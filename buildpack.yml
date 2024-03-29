@@ -1,0 +1,3 @@
+buildpacks:
+  - https://github.com/paketo-buildpacks/nginx
+  - https://github.com/paketo-buildpacks/node-engine
